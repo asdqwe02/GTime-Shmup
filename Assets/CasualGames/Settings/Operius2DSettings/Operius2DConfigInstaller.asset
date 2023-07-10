@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8118210f04f34fee92daa4178dcb3bbb, type: 3}
+  m_Name: Operius2DConfigInstaller
+  m_EditorClassIdentifier: 
+  _playerConfig: {fileID: 11400000, guid: 475cd9992dfb6364da8a211b1034a1e1, type: 2}
+  _spawnerConfig: {fileID: 11400000, guid: f76907aa9ee326c449ddf21e4e1022fc, type: 2}
+  _enemyConfig: {fileID: 11400000, guid: ca5eedfe88f5599498a5892798d1a6ec, type: 2}
+  _gameConfig: {fileID: 11400000, guid: 8be634c9ef3fc7740af7bca0096b6c7d, type: 2}
+  _bossConfig: {fileID: 11400000, guid: c50f05249250b874dbaf1c92f5dc21c6, type: 2}

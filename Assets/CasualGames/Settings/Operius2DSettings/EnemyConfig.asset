@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d90ad65d6274192b1b3dfdfd1e3c274, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  SideWaySpeed: 4
+  VerticalSpeed: 4
+  EnemyPrefab: {fileID: 6236421434093906542, guid: 50ac3102d807caa4b83ad7bba5349bc7, type: 3}
+  Hp: 1
+  Damage: 1
+  OutOfBoundDespawnDelay: 2
+  Colors:
+  - serializedVersion: 2
+    rgba: 4278252401
+  - serializedVersion: 2
+    rgba: 4278192639
+  - serializedVersion: 2
+    rgba: 4278250495
+  - serializedVersion: 2
+    rgba: 4291690751
+  - serializedVersion: 2
+    rgba: 4294926848
+  - serializedVersion: 2
+    rgba: 4292804352
+  EnemyHitLayerMask:
+    serializedVersion: 2
+    m_Bits: 8
+  MaxAttackInterval: 0.5
+  MinAttackInterval: 0.2
+  MinEnemyToResetAttInterval: 10
+  DiveCoolDown: 3
+  SpreadBullet: 4
+  SpreadConeAngle: 80
+  LaserChargeTime: 2.5
+  LaserFireTime: 0.25
+  LaserCoolDown: 0
+  LaserOffset: {x: 0, y: -0.5}
+  LaserSize: {x: 0.75, y: 10}
+  NumberOfSpike: 9
+  EnemyWeights:
+  - EnemyTypeEnum: 1
+    Weight: 3
+  - EnemyTypeEnum: 2
+    Weight: 13
+  - EnemyTypeEnum: 3
+    Weight: 5
+  - EnemyTypeEnum: 4
+    Weight: 13

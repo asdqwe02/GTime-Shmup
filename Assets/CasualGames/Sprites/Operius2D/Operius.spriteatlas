@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Operius
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d6b9092f731b8454395e08e22ed4f027, type: 3}
+    - {fileID: 2800000, guid: 61094c8ed5d9c974dac619266672dd9a, type: 3}
+    - {fileID: 2800000, guid: 97d06ef30f8918940beca43c75e2b2bc, type: 3}
+    - {fileID: 2800000, guid: 52f3f44c389f5d3479459bd54f4b4158, type: 3}
+    - {fileID: 2800000, guid: 3326966be5e637647a45b4214f4ed149, type: 3}
+    - {fileID: 2800000, guid: de2898b0a92425b4dae93ce097bb1bb0, type: 3}
+    - {fileID: 2800000, guid: 08f8644015099b1429fa8a4b0767b8a3, type: 3}
+    - {fileID: 2800000, guid: 50036dc08db726a4ab5dc1063526f748, type: 3}
+    - {fileID: 2800000, guid: cac95bb107554ec4db0304abc34777d3, type: 3}
+    - {fileID: 2800000, guid: 9ab0a48600858454b822296ad73aa075, type: 3}
+    - {fileID: 2800000, guid: 3dc18aaed06dc924b9cfa69e4cdc655a, type: 3}
+    - {fileID: 2800000, guid: 6a9843f3b5feec4469fa9d56a8b2bf32, type: 3}
+    - {fileID: 2800000, guid: bada8fc390e788d4c8db58877c15d32a, type: 3}
+    - {fileID: 2800000, guid: ebd6517a9e5e3034bb5350ab9089114c, type: 3}
+    - {fileID: 2800000, guid: 962594e1852d38f45b3e30a1dc9835c4, type: 3}
+    - {fileID: 2800000, guid: b64b99fcffda9bc418acea62a817017d, type: 3}
+    - {fileID: 2800000, guid: e6dc59fb804f37f47ab4f086aa4c2c66, type: 3}
+    - {fileID: 2800000, guid: 046c8435868f1a844a1cde8eaf5b7325, type: 3}
+    - {fileID: 2800000, guid: 1b78a014a833c824fbffff70810166cb, type: 3}
+    - {fileID: 2800000, guid: aed93fab55348934699164d858b957b8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 08f8644015099b1429fa8a4b0767b8a3, type: 3}
+  - {fileID: 1901781129, guid: de2898b0a92425b4dae93ce097bb1bb0, type: 3}
+  - {fileID: 995115979, guid: de2898b0a92425b4dae93ce097bb1bb0, type: 3}
+  - {fileID: 2105723039, guid: 50036dc08db726a4ab5dc1063526f748, type: 3}
+  - {fileID: 634731821, guid: 50036dc08db726a4ab5dc1063526f748, type: 3}
+  - {fileID: 136781749, guid: cac95bb107554ec4db0304abc34777d3, type: 3}
+  - {fileID: -196560804, guid: cac95bb107554ec4db0304abc34777d3, type: 3}
+  - {fileID: 2019740294, guid: cac95bb107554ec4db0304abc34777d3, type: 3}
+  - {fileID: -1103451463, guid: cac95bb107554ec4db0304abc34777d3, type: 3}
+  - {fileID: -488591351, guid: cac95bb107554ec4db0304abc34777d3, type: 3}
+  - {fileID: 2128667323, guid: 962594e1852d38f45b3e30a1dc9835c4, type: 3}
+  - {fileID: -1413795331, guid: 962594e1852d38f45b3e30a1dc9835c4, type: 3}
+  - {fileID: -1751871633, guid: 962594e1852d38f45b3e30a1dc9835c4, type: 3}
+  - {fileID: -1942580078, guid: bada8fc390e788d4c8db58877c15d32a, type: 3}
+  - {fileID: 21401404, guid: bada8fc390e788d4c8db58877c15d32a, type: 3}
+  - {fileID: -555241133, guid: bada8fc390e788d4c8db58877c15d32a, type: 3}
+  - {fileID: 1837555855, guid: 6a9843f3b5feec4469fa9d56a8b2bf32, type: 3}
+  - {fileID: 1476791724, guid: 6a9843f3b5feec4469fa9d56a8b2bf32, type: 3}
+  - {fileID: 202161741, guid: 6a9843f3b5feec4469fa9d56a8b2bf32, type: 3}
+  - {fileID: -142970371, guid: 97d06ef30f8918940beca43c75e2b2bc, type: 3}
+  - {fileID: -1819424411, guid: 97d06ef30f8918940beca43c75e2b2bc, type: 3}
+  - {fileID: -1595002828, guid: 1b78a014a833c824fbffff70810166cb, type: 3}
+  - {fileID: 822922327, guid: 1b78a014a833c824fbffff70810166cb, type: 3}
+  - {fileID: 1612563425, guid: 1b78a014a833c824fbffff70810166cb, type: 3}
+  - {fileID: 21300000, guid: 046c8435868f1a844a1cde8eaf5b7325, type: 3}
+  - {fileID: 1979343967, guid: 9ab0a48600858454b822296ad73aa075, type: 3}
+  - {fileID: 543398169, guid: 9ab0a48600858454b822296ad73aa075, type: 3}
+  - {fileID: 660726965, guid: 9ab0a48600858454b822296ad73aa075, type: 3}
+  - {fileID: 318249957, guid: ebd6517a9e5e3034bb5350ab9089114c, type: 3}
+  - {fileID: 2058536547, guid: ebd6517a9e5e3034bb5350ab9089114c, type: 3}
+  - {fileID: -290615771, guid: ebd6517a9e5e3034bb5350ab9089114c, type: 3}
+  - {fileID: 1953177713, guid: 3326966be5e637647a45b4214f4ed149, type: 3}
+  - {fileID: -1418872890, guid: 3326966be5e637647a45b4214f4ed149, type: 3}
+  - {fileID: 21300000, guid: aed93fab55348934699164d858b957b8, type: 3}
+  - {fileID: 21300000, guid: e6dc59fb804f37f47ab4f086aa4c2c66, type: 3}
+  - {fileID: 334700754, guid: 52f3f44c389f5d3479459bd54f4b4158, type: 3}
+  - {fileID: 493623082, guid: 52f3f44c389f5d3479459bd54f4b4158, type: 3}
+  - {fileID: -405476284, guid: b64b99fcffda9bc418acea62a817017d, type: 3}
+  - {fileID: -785877920, guid: b64b99fcffda9bc418acea62a817017d, type: 3}
+  - {fileID: 272715902, guid: b64b99fcffda9bc418acea62a817017d, type: 3}
+  - {fileID: 718487507, guid: 61094c8ed5d9c974dac619266672dd9a, type: 3}
+  - {fileID: 2012798946, guid: 61094c8ed5d9c974dac619266672dd9a, type: 3}
+  - {fileID: 1704632595, guid: 3dc18aaed06dc924b9cfa69e4cdc655a, type: 3}
+  - {fileID: 962811663, guid: 3dc18aaed06dc924b9cfa69e4cdc655a, type: 3}
+  - {fileID: -1338786531, guid: 3dc18aaed06dc924b9cfa69e4cdc655a, type: 3}
+  - {fileID: -2124115427, guid: d6b9092f731b8454395e08e22ed4f027, type: 3}
+  - {fileID: 349366568, guid: d6b9092f731b8454395e08e22ed4f027, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Alien Bullet
+  - Alien Base_0
+  - Alien Base_1
+  - Boss Alien_0
+  - Boss Alien_1
+  - heart sprite_4
+  - heart sprite_1
+  - heart sprite_0
+  - heart sprite_3
+  - heart sprite_2
+  - Laser Charge_1
+  - Laser Charge_0
+  - Laser Charge_2
+  - Laser Charge 4_1
+  - Laser Charge 4_0
+  - Laser Charge 4_2
+  - Laser Charge 3_2
+  - Laser Charge 3_0
+  - Laser Charge 3_1
+  - Alien Base 4_0
+  - Alien Base 4_1
+  - Player_1
+  - Player_0
+  - Player_2
+  - Player Bullet
+  - Laser Charge 1_0
+  - Laser Charge 1_1
+  - Laser Charge 1_2
+  - Laser Charge 5_0
+  - Laser Charge 5_1
+  - Laser Charge 5_2
+  - Alien Base 6_0
+  - Alien Base 6_1
+  - Space Background Start Screen
+  - Player Bullet Sprite
+  - Alien Base 5_1
+  - Alien Base 5_0
+  - Player 1_0
+  - Player 1_1
+  - Player 1_2
+  - Alien Base 3_1
+  - Alien Base 3_0
+  - Laser Charge 2_2
+  - Laser Charge 2_1
+  - Laser Charge 2_0
+  - Alien Base 2_0
+  - Alien Base 2_1
+  m_RenderDataMap: {}
+  m_Tag: Operius
+  m_IsVariant: 0

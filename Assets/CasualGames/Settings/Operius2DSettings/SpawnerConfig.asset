@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb07030aba34fd29179dd0ef844fe2b, type: 3}
+  m_Name: SpawnerConfig
+  m_EditorClassIdentifier: 
+  EnemyPrefab: {fileID: 4321980544076976097, guid: 50ac3102d807caa4b83ad7bba5349bc7, type: 3}
+  MinWaveUntilBoss: 3
+  MaxWaveUntilBoss: 5
+  BaseWaveSpacing: {x: 1, y: 0.75}
+  BaseWaveColumn: 15
+  BaseWaveRow: 10
+  EnemyExponentialVal: 2
+  NumberOfCacheCustomWaves: 5
+  CustomWaveChance: 0.25
+  BasicEnemyWaves:
+  - EnemyWaveMatrix: {fileID: 11400000, guid: 1830d71ef0139a44aa962dc9b6ed0d68, type: 2}
+  - EnemyWaveMatrix: {fileID: 11400000, guid: ffad76e8af0c07e43b79764ff28093ff, type: 2}
+  - EnemyWaveMatrix: {fileID: 11400000, guid: f25b31eac92908743b9db79722b6538a, type: 2}
+  - EnemyWaveMatrix: {fileID: 11400000, guid: 8c1ec94a87f62de47a5b95e6abb3bcf8, type: 2}
+  - EnemyWaveMatrix: {fileID: 11400000, guid: 742427b8b1b99224fb62084fa96c820d, type: 2}
+  BossEnemyWaves:
+  - BossEnemyPrefasb: {fileID: 6737175927931713282, guid: 837a3fee4ed7c4140a8362084f7a2800, type: 3}
+    BossStat:
+      HP: 20
+      Speed: 4
+      SkillCoolDown: 0.5
+      FireInterval: 0.25
+    NumberOfEnemy: 1

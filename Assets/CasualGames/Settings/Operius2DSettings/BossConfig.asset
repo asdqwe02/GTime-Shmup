@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76a948a062f2493eb3f59583e2a78d87, type: 3}
+  m_Name: BossConfig
+  m_EditorClassIdentifier: 
+  BossEnemies:
+  - BossEnemyController: {fileID: 6737175927931713282, guid: 837a3fee4ed7c4140a8362084f7a2800, type: 3}
+    BossStat:
+      HP: 20
+      Speed: 5
+      SkillCoolDown: 0
+      FireInterval: 0.25
